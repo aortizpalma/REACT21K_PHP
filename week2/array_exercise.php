@@ -33,6 +33,16 @@ echo "The page number used for the array query is: ".$queryPage;
 
 echo '<br>';
 echo '<br>';
+echo '<a href="./?page=1" target="_self">Page 1</a>';
+    echo '<br>';
+echo '<a href="./?page=2" target="_self">Page 2</a>';
+    echo '<br>';
+echo '<a href="./?page=3" target="_self">Page 3</a>';
+    echo '<br>';
+echo '<a href="./?page=4" target="_self">Page 4</a>';
+    echo '<br>';
+echo '<br>';
+echo '<br>';
 echo '<br>';
 echo 'Here are the results of the array: ';
 echo '<br>';
